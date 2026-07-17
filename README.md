@@ -1,8 +1,10 @@
 # Hi, I'm Ian 👋
 
-Junior Full Stack Developer passionate about turning ideas into practical software.
+Junior Full Stack Developer.
 
-I enjoy building projects that solve real-world problems, from educational applications to productivity tools and product concepts. Every project in this profile started from a real idea rather than a programming exercise.
+For me, programming has never been the goal—it's the tool. I enjoy taking an idea, understanding the problem behind it and learning whatever is needed to turn that idea into something real.
+
+Most of the projects in this profile started from a real need rather than from a programming exercise. That's how I learned, and it's still how I enjoy building software.
 
 ## Featured Projects
 
