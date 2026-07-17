@@ -23,7 +23,7 @@ Responsive product landing page for the EcoGrow concept.
 ### 🦖 Dinopedia
 Educational web application that helps children discover dinosaurs through an interactive alphabet.
 
-### 📖 Interactive Story for Children
+### 📖 The Child and the Narrator
 Interactive story created to encourage children to enjoy reading.
 
 ## Tech Stack
