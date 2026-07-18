@@ -24,7 +24,7 @@ Responsive product landing page for the EcoGrow concept.
 Educational web application that helps children discover dinosaurs through an interactive alphabet.
 
 ### 📖 The Child and the Narrator
-Interactive story created to encourage children to enjoy reading.
+Interactive educational story that combines narration and mini-games to encourage children to enjoy reading while developing observation and interaction skills.
 
 ## Tech Stack
 
