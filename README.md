@@ -1,4 +1,4 @@
-# Hi, I'm Ian 👋
+# Hi, I'm Keoni 👋
 
 **Junior Full Stack Developer**
 
@@ -11,10 +11,10 @@ Most of the projects in this profile started from a real need rather than from a
 # Featured Projects
 
 ### 📝 Attendance Management System
-Backend attendance management system for professional training, built with FastAPI.
+Backend proof of concept for attendance management in vocational training courses, built with FastAPI.
 
-### 🎮 Keoni Ruins Everything
-Server-authoritative multiplayer card game engine *(work in progress).*
+### 🛒 Duemilalire
+E-commerce front-end learning demo built with Angular and TypeScript, including product browsing, category filters, product details and a persistent shopping cart.
 
 ### 🌳 Tripark
 Concept and landing page for a platform that helps citizens discover and review public parks.
@@ -47,8 +47,11 @@ Interactive educational story that combines narration and mini-games to encourag
 - Angular
 - TypeScript
 - JavaScript
+- RxJS
 - HTML
 - CSS
+- API integration
+- Browser storage
 
 ## Tools
 
@@ -64,7 +67,7 @@ Interactive educational story that combines narration and mini-games to encourag
 
 - Node.js
 - Multiplayer backend architecture
-- AI-assisted development
+- Testing and CI/CD
 - Backend scalability
 
 ---
