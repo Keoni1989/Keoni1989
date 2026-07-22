@@ -13,20 +13,26 @@ Most of the projects in this profile started from a real need rather than from a
 ### 📝 Attendance Management System
 Backend proof of concept for attendance management in vocational training courses, built with FastAPI.
 
+### 📅 CalendarGo
+PHP event calendar for current Pokémon GO events, with JSON data integration, caching and multiple calendar views.
+
 ### 🛒 Duemilalire
 E-commerce front-end learning demo built with Angular and TypeScript, including product browsing, category filters, product details and a persistent shopping cart.
+
+### 🃏 Cordova card explorer
+Hybrid Android application built with Apache Cordova to browse and search Pokémon cards through the Pokémon TCG API.
+
+### 📖 The Child and the Narrator
+Interactive educational story that combines narration and mini-games to encourage children to enjoy reading while developing observation and interaction skills.
+
+### 🦖 Dinopedia
+Educational web application that helps children discover dinosaurs through an interactive alphabet.
 
 ### 🌳 Tripark
 Concept and landing page for a platform that helps citizens discover and review public parks.
 
 ### 🌱 EcoGrow
 Responsive product landing page with a live demo.
-
-### 🦖 Dinopedia
-Educational web application that helps children discover dinosaurs through an interactive alphabet.
-
-### 📖 The Child and the Narrator
-Interactive educational story that combines narration and mini-games to encourage children to enjoy reading while developing observation and interaction skills.
 
 ---
 
@@ -35,11 +41,14 @@ Interactive educational story that combines narration and mini-games to encourag
 ## Backend
 
 - Python
+- PHP
 - FastAPI
 - SQLAlchemy
 - SQL
 - SQLite
 - REST APIs
+- Server-side rendering
+- Caching
 
 ## Frontend
 
