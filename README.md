@@ -62,11 +62,20 @@ Responsive product landing page with a live demo.
 - API integration
 - Browser storage
 
+## Mobile
+
+- Apache Cordova
+- Hybrid Android development
+- Responsive mobile interfaces
+- Android build tooling *(basic)*
+
 ## Tools
 
 - Git
 - GitHub
+- npm
 - Docker *(basic)*
+- Android SDK *(basic)*
 - Vercel
 - VS Code
 
