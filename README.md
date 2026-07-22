@@ -4,37 +4,41 @@
 
 For me, programming has never been the goal—it's the tool. I enjoy taking an idea, understanding the problem behind it, and learning whatever is needed to turn that idea into something real.
 
-Most of the projects in this profile started from a real need rather than from a programming exercise. That's how I learned, and it's still how I enjoy building software.
-
----
+Many of the projects in this profile started from a real need rather than from a programming exercise. That's how I learned, and it's still how I enjoy building software.
 
 # Featured Projects
 
 ### 📝 Attendance Management System
+
 Backend proof of concept for attendance management in vocational training courses, built with FastAPI.
 
 ### 📅 CalendarGo
+
 PHP event calendar for current Pokémon GO events, with JSON data integration, caching and multiple calendar views.
 
 ### 🛒 Duemilalire
+
 E-commerce front-end learning demo built with Angular and TypeScript, including product browsing, category filters, product details and a persistent shopping cart.
 
-### 🃏 Cordova card explorer
+### 🃏 Cordova Card Explorer
+
 Hybrid Android application built with Apache Cordova to browse and search Pokémon cards through the Pokémon TCG API.
 
 ### 📖 The Child and the Narrator
+
 Interactive educational story that combines narration and mini-games to encourage children to enjoy reading while developing observation and interaction skills.
 
 ### 🦖 Dinopedia
+
 Educational web application that helps children discover dinosaurs through an interactive alphabet.
 
 ### 🌳 Tripark
+
 Concept and landing page for a platform that helps citizens discover and review public parks.
 
 ### 🌱 EcoGrow
-Responsive product landing page with a live demo.
 
----
+Responsive product landing page with a live demo.
 
 # Tech Stack
 
@@ -47,8 +51,6 @@ Responsive product landing page with a live demo.
 - SQL
 - SQLite
 - REST APIs
-- Server-side rendering
-- Caching
 
 ## Frontend
 
@@ -79,8 +81,6 @@ Responsive product landing page with a live demo.
 - Vercel
 - VS Code
 
----
-
 # Currently Learning
 
 - Node.js
@@ -88,9 +88,7 @@ Responsive product landing page with a live demo.
 - Testing and CI/CD
 - Backend scalability
 
----
-
-# What interests me
+# What Interests Me
 
 - Product development
 - Backend architecture
@@ -98,6 +96,4 @@ Responsive product landing page with a live demo.
 - Accessibility
 - Building software that solves real-world problems
 
----
-
-> *"The best way for me to learn a new technology is to build something that someone could actually use."*
+*The best way for me to learn a new technology is to build something that someone could actually use.*
